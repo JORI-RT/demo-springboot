@@ -33,3 +33,7 @@ bootRunで起動
 curl localhost:8080/actuator/prometheus
 
 ```
+### link
+* [spring boot official](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#legal)
+* [micrometer offcial](https://micrometer.io/docs/registry/prometheus)
+* [custom metrics](https://blog.autsoft.hu/defining-custom-metrics-in-a-spring-boot-application-using-micrometer/)
